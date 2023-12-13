@@ -1,2 +1,2 @@
-OS-Repository for work & assignments.
+# OS-Repository for work & assignments.
 Name: Gleb Shurin.
